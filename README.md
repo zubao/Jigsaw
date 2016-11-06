@@ -1,0 +1,3 @@
+这是一个使用Camera ＋SurfaceTexture实现九宫格效果的Demo
+它Camera绑定SurfaceTexture中的Surface 或者说是BufferQueueProducer，生产内容
+GLSurfaceView将SurfaceTexture绑定的纹理渲染到窗口上。
